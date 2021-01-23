@@ -1,6 +1,6 @@
 # BU-EC500-Deep-Learing-Project
 ## Introduction
-This repository is a the course project for EC500K1 "Deep Learning". We developed two convolutional neural networks to recognize handwritten Chinese sentences ('/charactor classifier') and classify them into different categories by semantic ('/semantic classifier'), respectively. The project reports is available under the root folder.
+This repository is a the course project for EC500K1 "Deep Learning". We developed two convolutional neural networks to recognize handwritten Chinese sentences ('/charactor classifier') and classify them into different categories by semantic ('/semantic classifier'), respectively. The project reports are available under the root folder.
 ### Branch
 The image_seg branch is for image segmentation.<br/>
 ### Folder
